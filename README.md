@@ -2,8 +2,13 @@
 
 ## How to use
 
-Compile and Run duel.c file
-
 ### Libraries
 You need to install the following librairies:
   - GTK Version 3
+
+Command for Linux Debian based Distros:
+`sudo apt-get install libgtk-3-dev`
+
+### Compilation
+`make duel
+./duel`
