@@ -1,5 +1,7 @@
 # Ping Pong
 
+The Ping Pong Game is a 2 player game, where the goal is to make the ball touch the opponent' side.
+
 ## How to use
 
 ### Libraries
@@ -12,7 +14,20 @@ sudo apt-get install libgtk-3-dev
 ```
 
 ### Compilation
+To compile the project, you need to run the following command:
 ```
 make duel
+```
+
+### Execute
+To execute the project, you need to run the following command:
+```
 ./duel
 ```
+
+### Cleaning
+To clean the project, you need to run the following command:
+```
+make clean
+```
+
