@@ -1,6 +1,6 @@
 # Ping Pong
 
-The Ping Pong Game is a 2 player game, where the goal is to make the ball touch the opponent' side.
+The Ping Pong Game is a 2 player game, where the goal is to make the ball touch the opponent' side. The game is made using C and Glade (a GUI builder for GTK).
 
 ## How to use
 
